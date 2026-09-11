@@ -1,6 +1,6 @@
 ### EJERCICIO 1 ###
 
-print("\nEJERCICIO 1\n------------------\n")
+print("\nEJERCICIO 1\n-------------------\n")
 
 print("Este es un simulador de compras.")
 
